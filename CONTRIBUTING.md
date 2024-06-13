@@ -34,6 +34,12 @@
 - Bio: I am a Software Developer, graduate of Mathematics
 - GitHub: [Vctcode](https://github.com/Vctcode)
 
+#### Name: [shiva gupta](https://github.com/shiva5152)
+
+- Place: Delhi, India
+- Bio: I am a Software Developer, graduate of Mathematics
+- GitHub: [shiva5152](https://github.com/shiva5152)
+
 #### Name: [SP KariSims](https://github.com/KariSims)
 
 -Place: Dakar, DAKAR, SENEGAL
@@ -41,6 +47,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
